@@ -1,0 +1,8 @@
+💭 Brain Dump
+
+- Idea: Make a cross-platform habit tracker using this same Qt base.
+- Add markdown support?
+- Research: How to use SQLite with Qt for saving multiple notes.
+- Question: Can QML make this look more modern?
+
+Feels great to finally build something native!
